@@ -2,3 +2,16 @@
   display: flex;
   justify-content: center;
 }
+
+.pending {
+  color: grey;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
